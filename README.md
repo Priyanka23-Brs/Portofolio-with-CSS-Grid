@@ -3,4 +3,4 @@
 ###### Purpose:
     To create a simple Portfolio with HTML Flex on web.
 
-#### Check out the live app [here](http://203.193.173.125/buildriseshine/design/profile-with-flex/).
+#### Check out the live app [here](https://priyanka23-brs.github.io/Portofolio-with-CSS-Grid/).
